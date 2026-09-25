@@ -1,0 +1,1 @@
+CHUNKTEST:hello-knowlocal-asset-pipeline
